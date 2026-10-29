@@ -4,7 +4,9 @@
 
 **Requested period:** 1 Nov 2026 — 31 Jan 2027
 
-**Project:** Legacy Application Migration — starting with code migration 
+**Project:** Mycroft
+
+**Current Project:** Legacy Application Migration Using AI 
 
 **Repository:** <https://github.com/mdhussainshariff/snowshift> (database migration, current period) · <https://github.com/mdhussainshariff/mycroft-nikbearbrown/tree/jboss-migrator> (JBoss migrator, branch `jboss-migrator`)
 
