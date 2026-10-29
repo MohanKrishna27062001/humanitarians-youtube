@@ -9,7 +9,7 @@
 | Activity | Hours | Record / artifact |
 |---|---:|---|
 | Document verified claim by claim against the code and the live dev environment: several claims corrected and several withdrawn as unverifiable, including a backup posture that could not be substantiated and an MFA claim that was never checked | 16 | [Work report](../2026-10-12-security-data-handling-document/README.md) |
-| TLS versions tested individually against the dev endpoint: 1.0 and 1.1 rejected, 1.2 and 1.3 accepted, 1.3 negotiated by default | 4 | [Four Documents](../2026-09-14-security-documents-explainer/FACTCHECK.md) |
+| TLS versions tested individually against the dev endpoint: 1.0 and 1.1 rejected, 1.2 and 1.3 accepted, 1.3 negotiated by default | 4 | [Frictional log](../2026-10-12-security-data-handling-document/FRICTIONAL.md) |
 | Document conformed to a single-source LaTeX build so it renders without a browser print stamp | 6 | [Frictional log](../2026-10-12-security-data-handling-document/FRICTIONAL.md) |
 | Weekly project sync with Professor Brown | 2 | Correspondence |
 | **Total** | **28** | **26 project + 2 supervision** |
