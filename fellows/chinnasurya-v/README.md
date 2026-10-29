@@ -57,7 +57,6 @@ is here is what the pipeline consumed plus the checks it produced.
 ## Masters on Drive
 
 [Drive folder](https://drive.google.com/drive/folders/1jtAWaeQ5k_HyH-P5c_D-A7tUklGo1hZG).
-Each master is named after this folder's slug without the date; `-short` is the 9:16 cut.
 
 | Work folder | 16:9 master | 9:16 cut |
 |---|---|---|
