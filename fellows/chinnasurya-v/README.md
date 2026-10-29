@@ -3,8 +3,6 @@
 **Role:** AI Software Engineer
 **Project:** Medhavy Canvas LTI 1.3 integration
 **GitHub:** [@surya16122114](https://github.com/surya16122114)
-**Voice:** Kokoro `am_onyx`
-**Last updated:** 2026-10-28
 
 ## Executive summary
 
@@ -23,6 +21,12 @@ folder and the masters on Drive. All six also exist as native 9:16 cuts, rendere
 at portrait dimensions rather than centre-cropped; each carries its own
 `beat-sheet-short.json` as the build input. Twelve masters in all, thirteen
 minutes twenty-four of 4K explainer.
+
+**Series voice:** Kokoro Onyx (`am_onyx`), recorded as `metadata.voice_kokoro` in every
+beat sheet and kept across the series. No re-voice decision has been made.
+
+**Status:** all six reels are built, QC'd and fact-checked, and none is published to
+YouTube. Publishing is the first item of the next period.
 
 ## Quick review
 
