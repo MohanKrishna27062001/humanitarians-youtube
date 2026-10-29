@@ -60,7 +60,7 @@ directly rather than read off a config file: TLS 1.0 and 1.1 rejected, 1.2 and 1
 accepted, 1.3 negotiated by default.
 *My contribution:* sole author. Every verified figure measured on the dev
 environment.
-*Evidence:* [Four Documents](../2026-09-14-security-documents-explainer/README.md), the reel explaining what each required document has to answer, with its [fact-check](../2026-09-14-security-documents-explainer/FACTCHECK.md) and [sources](../2026-09-14-security-documents-explainer/SOURCES.md). The review document itself contains hosting detail for an institution's internal review and is available to Professor Brown on request rather than published here.
+*Evidence:* [the work record](../2026-10-12-security-data-handling-document/README.md), with the TLS method and the withdrawn claims in its [Frictional log](../2026-10-12-security-data-handling-document/FRICTIONAL.md). [Four Documents](../2026-09-14-security-documents-explainer/README.md) is the reel explaining what each required document has to answer, with its [fact-check](../2026-09-14-security-documents-explainer/FACTCHECK.md) and [sources](../2026-09-14-security-documents-explainer/SOURCES.md). The review document itself contains hosting detail for an institution's internal review and is available to Professor Brown on request rather than published here.
 
 **3. Six Brutalist 4K reels, with the full film-as-code record.**
 "How a Canvas Launch Works" (11 beats, 3:15.4), "Four Documents" (9 beats,

@@ -44,8 +44,8 @@ assurances section.
 Transport security was tested rather than read off a configuration file. Each TLS
 version was negotiated individually against the dev endpoint: 1.0 and 1.1 rejected,
 1.2 and 1.3 accepted, 1.3 negotiated by default. The method and the result are
-recorded in [Four Documents](../2026-09-14-security-documents-explainer/FACTCHECK.md),
-the reel that explains this document to a non-specialist audience.
+recorded in [FRICTIONAL.md](FRICTIONAL.md). [Four Documents](../2026-09-14-security-documents-explainer/README.md)
+is the reel that explains this document to a non-specialist audience.
 
 ## Evidence
 
